@@ -221,7 +221,7 @@ const ProductDetails = () => {
                                         </span>
                                     </li>
                                 </ul>
-                                <Link to="/"
+                                <Link to="/pagination-reduxtoolkit/"
                                     className="max-w-50 text-center w-full px-5 py-4 rounded-[100px] bg-[#ff3d00] flex items-center justify-center font-semibold text-lg text-white shadow-sm transition-all duration-500 hover:bg-indigo-700 hover:shadow-indigo-400">
                                     Back to Home
                                 </Link>

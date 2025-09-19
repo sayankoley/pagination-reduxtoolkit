@@ -30,7 +30,7 @@ export const ProductCard = ({ cur}) => {
                 <span className="text-xl font-bold text-gray-900">${cur.price}</span>
 
                 <Link
-                to={`/${cur.id}`}
+                to={`/pagination-reduxtoolkit/${cur.id}`}
                     className="px-4 py-2 cursor-pointer bg-[#ff3d00] text-white rounded-lg hover:bg-blue-600 transition duration-300"
                 >
                     Read More
